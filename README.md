@@ -1,1 +1,1 @@
-# VVision-based-Defect-Recognition-Using-Fusion
+# Vision-based Defect Recognition Using Fusion Techniques
